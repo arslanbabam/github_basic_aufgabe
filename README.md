@@ -14,4 +14,3 @@ github_basics_aufgabe_arbeitung
 
 Dieses Projekt dient dazu, die grundlegenden Konzepte von GitHub kennenzulernen und praktisch anzuwenden.
 Diese Zeile wurde zum Testen hinzugefügt.
-“Change in test branch”
