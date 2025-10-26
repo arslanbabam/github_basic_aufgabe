@@ -13,3 +13,4 @@ github_basics_aufgabe_arbeitung
 ## Über das Projekt
 
 Dieses Projekt dient dazu, die grundlegenden Konzepte von GitHub kennenzulernen und praktisch anzuwenden.
+Diese Zeile wurde zum Testen hinzugefügt.
